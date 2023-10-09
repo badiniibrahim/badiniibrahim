@@ -11,11 +11,11 @@
 ## Programming languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ## Frontend Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://camo.githubusercontent.com/849df55fe29b47e22a77b14e356bc2c74064ecfe92809e9e32edfb5bf802541c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS](https://camo.githubusercontent.com/d293db31baf144d4f40915483538a131230f3354736dea29ebfb2e599dd99e38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)

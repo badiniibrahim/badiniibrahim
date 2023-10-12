@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m <strong>Badini a passionate Frontend and Backend developer </strong>
-- 👀  I'm a Full Stack Web React, React Native and Flutter Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
+- 👀  I'm a Full Stack Web React, Next.js and Flutter Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
 - 🌱 I’m currently learning React, Redux, Flutter, Next.js
 - 💞️ I’m working on Full Stack React, Next.js, Node Development, Flutter
 - 💬 Ask me about Html, CSS, Javascript, React, React-Redux, Redux-Toolkit, Node, Express, Mongo and more

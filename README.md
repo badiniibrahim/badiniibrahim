@@ -62,6 +62,9 @@
 ## Currently learning
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
+## My Portfolio
+https://badini-portfolio-vz59.vercel.app/
+
 <!---
 badiniibrahim/badiniibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

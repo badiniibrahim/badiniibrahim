@@ -1,14 +1,17 @@
 
-- 👋 Hi, I’m <strong>Badini, i'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Flutter. </strong>
-        
-- 👀  I'm a Full Stack Web React, Next.js and Flutter Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
-- 🌱 I’m currently learning React, Redux, Flutter, Next.js
-- 💞️ I’m working on Full Stack React, Next.js, Node Development, Flutter
-- 💬 Ask me about Html, CSS, Javascript, React, React-Redux, Redux-Toolkit, Node, Express, Mongo and more
-- 📫 How to reach me sawadogo.badiniibrahim@gmail.com or call me on +33 6 58 28 76 90
-- <strong>Let's work together to bring your ideas to life!
+👋 Hello, I'm Badini, a skilled software developer with significant experience in TypeScript, JavaScript, and a sharp expertise in frameworks like React, Node.js, and Flutter.
+
+🚀 As a Full Stack Web developer, I master React, Next.js, and Flutter, specializing in the MERN stack. My goal is to create clean, elegant, and highly efficient code for responsive web applications.
+
+📚 I'm in constant learning mode, currently focused on React, Redux, Flutter, and Next.js, always striving to stay at the forefront of the latest technologies.
+
+💼 My experience and passion are evident in Full Stack development with React, Next.js, Node.js, and Flutter, where I contribute to innovative and impactful projects.
+
+💬 Feel free to ask me questions about Html, CSS, Javascript, React, React-Redux, Redux-Toolkit, Node, Express, Mongo, and more. I'm here to share my knowledge and add value.
+
+📧 To contact me, send an email to sawadogo.badiniibrahim@gmail.com or call me at +33 6 58 28 76 90. I'm open to professional opportunities.
+
+🤝 Let's work together to bring your ideas to life and create cutting-edge technological solutions!
 
   
 

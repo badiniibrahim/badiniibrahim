@@ -17,8 +17,7 @@ I'm a passionate and skilled **Full Stack Developer** with hands-on experience i
 I'm actively seeking exciting projects, collaborations, or full-time opportunities where I can grow and contribute meaningfully to impactful products.
 
 📬 Contact me at:  
-📧 **sawadogo.badiniibrahim@gmail.com**  
-📞 **+33 6 58 28 76 90**
+📧 **sawadogo.badiniibrahim@gmail.com**
 
 ---
 
@@ -41,11 +40,6 @@ I'm actively seeking exciting projects, collaborations, or full-time opportuniti
 ![Redux](https://img.shields.io/badge/redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
